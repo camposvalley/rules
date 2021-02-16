@@ -6,7 +6,6 @@
 **1.3.** Ataques pessoais ou perseguição de qualquer forma;<br />
 **1.4.** Envio de mensagens sem sentido (como sequências longas de stickers ou memes que não se encaixam com o tópico sendo discutido);<br />
 **1.5.** Discussões acaloradas fora do tópico do grupo, especialmente aquelas envolvendo religião, política e outros assuntos polêmicos;<br />
-<br />
 **1.6.** Proibido qualquer manifestação de cunho racista ou homofóbico, contra qualquer membro do grupo ou pessoas externas (especialmente indianos, que são nossos amigos do YouTube);
 <br /><br />
 ## 2. Obtendo ajuda:<br />
