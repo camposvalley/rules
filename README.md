@@ -12,5 +12,5 @@
 **2.1.** Mantenha a sua pergunta dentro do tópico do grupo. Utilize o chat para tirar suas dúvidas;<br />
 **2.2.** Nenhuma pergunta é idiota. Um dia fomos todos novatos, portanto, seja cordial ao responder uma dúvida. `"Pesquisa no Google"` não é resposta;<br />
 **2.3.** Uma vez feita a sua pergunta, esclarecimentos serão necessários. Responda as dúvidas daqueles tentando ajudar;<br />
-**2.4.** Não chame outros membros no privado para dúvidas comuns. Salvo casos especiais, discuta as suas dúvidas em público, no grupo. Isso permite que mais de uma pessoa o ajude;
+**2.4.** Não chame outros membros no privado para dúvidas comuns. Salvo casos especiais, discuta as suas dúvidas em público, no grupo. Isso permite que mais de uma pessoa o ajude;<br />
 **2.5.** Chegou agora? Se apresente! (Ou pague cerveja);
